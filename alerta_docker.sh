@@ -1,4 +1,6 @@
 #!/bin/bash
+# Verificar se um container específico está disponível.
+# Definir loop de verificação por cron
 
 # Configs
 CONTAINER_NAME="<nome-do-container>"
